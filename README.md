@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Shanu Khera
 
-<!--
-**khera-shanu/khera-shanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="todo" width="200px" align="right">
 
-Here are some ideas to get you started:
+## A pragmatic programmer with a passion for solving problems using technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have over a decade of experience building robust, large-scale distributed systems, data pipelines, and web apps. 
+
+My solutions power products and platforms handling massive traffic and data.
+
+### Key Highlights
+
+- Architected gaming platform teaching kids to code (Acquired for $500K)
+- Pioneered tech initiatives to provide skills to underprivileged students
+- Scaled mobile games to handle 100M+ events at peak traffic 
+- Graduated among the top 10% of my university class
+
+## Let's Connect
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khera-shanu)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kherashanu)
