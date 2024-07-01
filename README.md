@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shanu Khera
 
-<img src="todo" width="200px" align="right">
+<img src="[Shanu Khera](https://github.com/khera-shanu/khera-shanu/blob/main/profile.jpeg)" width="200px" align="right">
 
 ## A pragmatic programmer with a passion for solving problems using technology
 
