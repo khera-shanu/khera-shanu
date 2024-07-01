@@ -1,12 +1,14 @@
 # Hi there 👋 I'm Shanu Khera
 
-<img src="https://raw.githubusercontent.com/khera-shanu/khera-shanu/main/profile.jpeg" width="200px" align="right">
-
 ## A pragmatic programmer with a passion for solving problems using technology
 
 I have over a decade of experience building robust, large-scale distributed systems, data pipelines, and web apps. 
 
 My solutions power products and platforms handling massive traffic and data.
+
+<div>
+  <img src="https://raw.githubusercontent.com/khera-shanu/khera-shanu/main/profile.jpeg" width="200px" align="left">
+</div>
 
 ### Key Highlights
 
@@ -14,6 +16,8 @@ My solutions power products and platforms handling massive traffic and data.
 - Pioneered tech initiatives to provide skills to underprivileged students
 - Scaled mobile games to handle 100M+ events at peak traffic 
 - Graduated among the top 10% of my university class
+
+<br/>
 
 ## Let's Connect
 
