@@ -1,9 +1,8 @@
-# Hi there 👋 I'm Shanu Khera
+# Hi there 👋 I'm Shanu Khera, Data Engineer @ BP
 
 ## A pragmatic programmer with a passion for solving problems using technology
 
 I have over a decade of experience building robust, large-scale distributed systems, data pipelines, and web apps. 
-
 My solutions power products and platforms handling massive traffic and data.
 
 <div>
@@ -12,7 +11,9 @@ My solutions power products and platforms handling massive traffic and data.
 
 ### Key Highlights
 
-- Architected gaming platform teaching kids to code (Acquired for $500K)
+- Moved from Senior Backend dev role to Data Engineer
+- I am good at Building and Breaking all things Software
+- Architected gaming platform teaching kids to code
 - Pioneered tech initiatives to provide skills to underprivileged students
 - Scaled mobile games to handle 100M+ events at peak traffic 
 - Graduated among the top 10% of my university class
