@@ -11,6 +11,7 @@ My solutions power products and platforms handling massive traffic and data.
 
 ### Key Highlights
 
+- Data Engineer -> LLM Engineering @ Odin
 - Moved from Senior Backend dev role to Data Engineer
 - I am good at Building and Breaking all things Software
 - Architected gaming platform teaching kids to code
