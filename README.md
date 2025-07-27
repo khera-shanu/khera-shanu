@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Shanu Khera, Data Engineer @ BP
+# Hi there 👋 I'm Shanu Khera, Head of Engineer @ Odin (https://getodin.ai) (We are hiring!)
 
 ## A pragmatic programmer with a passion for solving problems using technology
 
