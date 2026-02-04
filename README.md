@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Shanu Khera, Head of Engineering @ Odin (https://getodin.ai) (We are hiring!)
+# Hi there 👋 I'm Shanu Khera, Engineer (Backend, Data, AI/ML/GenAI)
 
 [Blog - Kherashanu.com](https://kherashanu.com)
 
