@@ -33,9 +33,6 @@ I build production-grade backend and GenAI systems: distributed services, data p
 
 - [open-computer-use](https://github.com/anpu-ai-official/open-computer-use) — parallel, focus-safe browser and native macOS automation for AI coding agents.
 - [9-gyo-phi](https://github.com/anpu-ai-official/9-gyo-phi) — a private, local-first document reader and M4B audiobook studio for Apple Silicon.
-- [save-my-prompt-skill](https://github.com/khera-shanu/save-my-prompt-skill) — a portable prompt library for AI coding agents.
-- [hope-http](https://github.com/khera-shanu/hope-http) — an HTTP server written in C.
-- [tangkhul-learning-app](https://github.com/khera-shanu/tangkhul-learning-app) — an interactive learning application with 1,155 verified Tangkhul language units.
 
 ## Connect
 
