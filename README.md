@@ -1,30 +1,42 @@
-# Hi there 👋 I'm Shanu Khera, Engineer (Backend, Data, AI/ML/GenAI)
+# Shanu Khera
 
-[Blog - Kherashanu.com](https://kherashanu.com)
+**Backend & GenAI Engineer · 13+ years in software engineering**
 
-## A pragmatic programmer with a passion for solving problems using technology
+<img src="https://raw.githubusercontent.com/khera-shanu/khera-shanu/main/profile.jpeg" width="180" align="right" alt="Shanu Khera">
 
-I have over a decade of experience building robust, large-scale distributed systems, data pipelines, and web apps. 
-My solutions power products and platforms handling massive traffic and data.
+I build production-grade backend and GenAI systems: distributed services, data platforms, and reliable AI agents.
 
-<div>
-  <img src="https://raw.githubusercontent.com/khera-shanu/khera-shanu/main/profile.jpeg" width="200px" align="left">
-</div>
+## What I'm doing now
 
-### Key Highlights
+- Principal Software Engineer at [CloudlyIO](https://github.com/CloudlyIO), working on AI-powered healthcare systems.
+- Founder of [Anpu AI](https://anpu.ai), building Hope—a self-hosted agentic workflow engine with durable, event-sourced execution and replay.
 
-- Data Engineer -> LLM Engineering @ Odin
-- Moved from Senior Backend dev role to Data Engineer
-- I am good at Building and Breaking all things Software
-- Architected gaming platform teaching kids to code
-- Pioneered tech initiatives to provide skills to underprivileged students
-- Scaled mobile games to handle 100M+ events at peak traffic 
-- Graduated among the top 10% of my university class
+## Selected impact
 
-<br/>
+- Scaled mobile gaming systems to handle **100M+ events at peak traffic**.
+- Improved the performance of a production logging service written in C by **50%**.
+- Built backend services and APIs using Python, Go, PostgreSQL, Kafka, REST, and GraphQL.
+- Delivered data platforms using Spark, Airflow, ClickHouse, and cloud-native infrastructure.
+- Hired, mentored, and managed a team of eight engineers.
 
-## Let's Connect
+## Core technologies
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khera-shanu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kherashanu)
+| Area | Technologies |
+| --- | --- |
+| Backend | Python, Go, C, FastAPI, Flask, REST, GraphQL |
+| Distributed systems | Kafka, PostgreSQL, Redis, ClickHouse |
+| Data | Apache Spark, PySpark, Apache Airflow, ETL pipelines |
+| Cloud and infrastructure | AWS, GCP, Docker, Kubernetes, Terraform, CI/CD |
+| GenAI | AI agents, tool calling, workflow orchestration, evaluation, observability |
 
+## Current open-source work
+
+- [open-computer-use](https://github.com/anpu-ai-official/open-computer-use) — parallel, focus-safe browser and native macOS automation for AI coding agents.
+- [9-gyo-phi](https://github.com/anpu-ai-official/9-gyo-phi) — a private, local-first document reader and M4B audiobook studio for Apple Silicon.
+- [save-my-prompt-skill](https://github.com/khera-shanu/save-my-prompt-skill) — a portable prompt library for AI coding agents.
+- [hope-http](https://github.com/khera-shanu/hope-http) — an HTTP server written in C.
+- [tangkhul-learning-app](https://github.com/khera-shanu/tangkhul-learning-app) — an interactive learning application with 1,155 verified Tangkhul language units.
+
+## Connect
+
+[Website](https://kherashanu.com) · [LinkedIn](https://www.linkedin.com/in/khera-shanu/) · [X](https://x.com/kherashanu)
